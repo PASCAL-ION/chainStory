@@ -27,3 +27,7 @@
    ```bash
    git clone https://github.com/votre-utilisateur/chainstory.git
    cd chainstory
+2. Lancez le projet :
+
+   ```bash
+   npm run dev
